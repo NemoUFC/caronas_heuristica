@@ -1,2 +1,2 @@
 # caronas_heuristica
-Pesquisa - Tati e Fred
+Pesquisa - Tati e Hugo
